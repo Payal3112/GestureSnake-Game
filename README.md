@@ -131,7 +131,7 @@ Created by Payal Payal
 Bringing classic games into the modern age with gesture control
 
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Payal3112
 
 
 
@@ -146,5 +146,5 @@ Do you want me to do that next?
 ```bash
 
 
-git clone https://github.com/<Payal3112>/GestureSnake-Game.git
+git clone https://github.com/Payal3112/GestureSnake-Game.git
 cd GestureSnake
