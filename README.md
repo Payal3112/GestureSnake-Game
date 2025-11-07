@@ -1,4 +1,6 @@
 # GestureSnake Game 🐍👋
+<img width="1480" height="745" alt="image" src="https://github.com/user-attachments/assets/5917bc80-4a01-4882-893b-1ec7d46c7192" />
+
 
 **GestureSnake** is a modern twist on the classic Nokia Snake game, controlled entirely via **hand gestures** using a webcam. Built with Python, OpenCV, MediaPipe, and Pygame, this project demonstrates real-time computer vision and interactive gameplay.
 
