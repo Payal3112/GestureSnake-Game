@@ -146,5 +146,5 @@ Do you want me to do that next?
 ```bash
 
 
-git clone https://github.com/<your-username>/GestureSnake.git
+git clone https://github.com/<Payal3112>/GestureSnake-Game.git
 cd GestureSnake
